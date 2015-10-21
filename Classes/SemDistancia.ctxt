@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=nome
+comment0.target=SemDistancia(java.lang.String)
+comment1.params=peso\ data\ Nome_desporto\ weather\ t
+comment1.target=SemDistancia(int,\ java.util.GregorianCalendar,\ java.lang.String,\ java.lang.String,\ Tempo)
+comment2.params=f
+comment2.target=SemDistancia(SemDistancia)
+comment3.params=v
+comment3.target=boolean\ equals(SemDistancia)
+comment3.text=Verifica\ se\ dois\ Desportos\ deste\ tipo\ sao\ iguais
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=Converte\ para\ uma\ representa\u00E7\u00E3o\ textual
+comment5.params=
+comment5.target=SemDistancia\ clone()
+comment5.text=Cria\ uma\ c\u00F3pia\ do\ receptor
+numComments=6

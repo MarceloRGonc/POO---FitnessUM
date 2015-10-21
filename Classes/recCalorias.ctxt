@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=recCalorias()
+comment1.params=r
+comment1.target=recCalorias(java.util.Map)
+comment2.params=r
+comment2.target=recCalorias(recCalorias)
+comment3.params=
+comment3.target=recCalorias\ clone()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=int\ getNAt()
+comment6.text=N\u00FAmero\ de\ atividades\ com\ registo\ nos\ recordes
+comment7.params=n
+comment7.target=java.util.TreeSet\ getRAt(java.lang.String)
+comment8.params=n
+comment8.target=void\ addRAt(Desporto)
+comment9.params=desporto
+comment9.target=java.lang.String\ getRecorde(Desporto)
+numComments=10

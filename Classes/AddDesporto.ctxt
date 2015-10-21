@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=atividade\ user
+comment0.target=Desporto\ atSAltimetria(java.lang.String,\ Utilizador)
+comment1.params=atividade\ user
+comment1.target=Desporto\ atCAltimetria(java.lang.String,\ Utilizador)
+comment2.params=atividade\ user
+comment2.target=Desporto\ atSDistancia(java.lang.String,\ Utilizador)
+numComments=3

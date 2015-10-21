@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Recordes()
+comment1.params=m
+comment1.target=Recordes(Recordes)
+comment10.params=novo
+comment10.target=void\ addRecorde(Desporto)
+comment11.params=d
+comment11.target=java.lang.String\ recordeAt(Desporto)
+comment2.params=m\ c
+comment2.target=Recordes(recDistancia,\ recCalorias)
+comment3.params=
+comment3.target=recDistancia\ getRDist()
+comment4.params=
+comment4.target=recCalorias\ getRCal()
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toStringD()
+comment7.params=
+comment7.target=java.lang.String\ toStringC()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=Recordes\ clone()
+numComments=12

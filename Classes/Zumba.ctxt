@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zumba()
+comment1.params=peso\ data\ atividade\ weather\ t
+comment1.target=Zumba(int,\ java.util.GregorianCalendar,\ java.lang.String,\ java.lang.String,\ Tempo)
+comment2.params=f
+comment2.target=Zumba(Zumba)
+comment3.params=v
+comment3.target=boolean\ equals(Zumba)
+comment3.text=Verifica\ se\ dois\ Desportos\ deste\ tipo\ sao\ iguais
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=Converte\ para\ uma\ representa\u00E7\u00E3o\ textual
+comment5.params=
+comment5.target=Zumba\ clone()
+comment5.text=Cria\ uma\ c\u00F3pia\ do\ receptor
+comment6.params=p\ h
+comment6.target=double\ calculaCal(int,\ double)
+comment6.text=Metodo\ que\ calcula\ as\ calorias\ dispendidas
+numComments=7

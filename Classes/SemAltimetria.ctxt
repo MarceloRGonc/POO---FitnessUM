@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=nome
+comment0.target=SemAltimetria(java.lang.String)
+comment1.params=peso\ data\ Nome_deporto\ weather\ t\ distancia\ vel_maxima\ vel_minima
+comment1.target=SemAltimetria(int,\ java.util.GregorianCalendar,\ java.lang.String,\ java.lang.String,\ Tempo,\ double,\ double,\ double)
+comment2.params=f
+comment2.target=SemAltimetria(SemAltimetria)
+comment3.params=v
+comment3.target=boolean\ equals(SemAltimetria)
+comment3.text=Verifica\ se\ dois\ Desportos\ deste\ tipo\ sao\ iguais
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=Converte\ para\ uma\ representa\u00E7\u00E3o\ textual
+comment5.params=
+comment5.target=SemAltimetria\ clone()
+comment5.text=Cria\ uma\ c\u00F3pia\ do\ receptor
+numComments=6
